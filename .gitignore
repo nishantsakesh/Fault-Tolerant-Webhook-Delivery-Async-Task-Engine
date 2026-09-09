@@ -1,0 +1,8 @@
+new_folder/
+.env
+.env.*
+*.log
+target/
+.idea/
+.vscode/
+*.iml
